@@ -11,7 +11,7 @@ Portfolio designed using HTML,CSS,JS.
 ## View
 
 Deployed on heroku
-To view Deployed App [click here](https://akashchand-portfolio.herokuapp.com/).
+To view Deployed App [click here](https://akashchand-portfolio.netlify.app/).
 
 #### Example:
 
